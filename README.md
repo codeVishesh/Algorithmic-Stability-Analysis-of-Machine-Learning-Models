@@ -71,12 +71,5 @@ RMSE (Root Mean Squared Error) for predictive accuracy
 
 Prediction variance for algorithmic stability
 
-🧪 Experimental Results (Real Dataset)
-Model	RMSE ↓	Stability ↓
-Linear Regression	0.743	0.000038
-Random Forest	0.524	0.009544
-SVR	0.601	0.000461
-Neural Network	0.552	0.005932
-
 Key Insight:
 Models with higher expressive power tend to achieve better accuracy but exhibit reduced stability, highlighting an important trade-off between performance and robustness.
