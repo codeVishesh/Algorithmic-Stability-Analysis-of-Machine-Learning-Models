@@ -36,7 +36,7 @@ Used for empirical validation of stability behavior.
 
 This dual-dataset approach enables both theoretical rigor and practical relevance.
 
-🧠 Models Evaluated
+Models Evaluated - 
 
 The project compares models with different inductive biases:
 
